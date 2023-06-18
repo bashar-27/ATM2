@@ -97,6 +97,7 @@ namespace ConsoleApp5
             return totalBalacne;
 
         }
+        //Deposit
         public static decimal Deposit(decimal amount)
         {
 
